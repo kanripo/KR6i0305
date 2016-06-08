@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:01.556360
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:20
 #+TITLE: 金光明經玄義拾遺記
 #+PROPERTY: CBETA_ID T39n1784
 #+PROPERTY: ID KR6i0305
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1784
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0305_T_005-0036a> ¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 金光明經玄義拾遺記卷第五¶
+金光明經玄義拾遺記卷第五¶
 ¶
 宋四明沙門知禮述¶
 

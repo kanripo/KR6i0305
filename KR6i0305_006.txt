@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:01.593511
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:20
 #+TITLE: 金光明經玄義拾遺記
 #+PROPERTY: CBETA_ID T39n1784
 #+PROPERTY: ID KR6i0305
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1784
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0305_T_006-0041b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 金光明經玄義拾遺記卷第六¶
+金光明經玄義拾遺記卷第六¶
 ¶
 宋四明沙門知禮述¶
 
@@ -52,7 +51,7 @@
 有此名。未有此觀故。云即名字金光明也。二¶
 結意。意在觀心聞慧具足。夫如是則法性寶¶
 山不跬步而至矣。然此觀行諸說文旨尤邃。¶
-非造心山家壼奧者。莫可輕議也。予研精此¶
+非造心山家壺奧者。莫可輕議也。予研精此¶
 義積有歲年。豈敢抑理順情是此非彼。奈何¶
 境觀之道宛而有歸。況諸部之相符。驗斯
 <pb:KR6i0305_T_006-0042a>¶

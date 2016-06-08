@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:01.437772
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:20
 #+TITLE: 金光明經玄義拾遺記
 #+PROPERTY: CBETA_ID T39n1784
 #+PROPERTY: ID KR6i0305
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1784
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0305_T_001-0012b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1784[cf.Nos.663,1783]¶
-
- 金光明經玄義拾遺記卷第一(并序)¶
+No. 1784 [cf. Nos. 663, 1783]¶
+金光明經玄義拾遺記卷第一并序(并序)¶
 ¶
 宋四明沙門知禮述¶
 
@@ -282,8 +281,7 @@ No.1784[cf.Nos.663,1783]¶
 名言也。體居次者。名是能詮如標月指。體是¶
 所詮如所標月。若失意者。執指為月。不唯
 <pb:KR6i0305_T_001-0015b>¶
-迷月亦失於指。若得意者。忘名得體。不唯¶
-識體亦不昧名。今論得意。故去以聞名故。¶
+迷月亦失於指。若得意者。忘名得體。不唯識體亦不昧名。今論得意。故去以聞名故。¶
 次識法體也。宗居三者。宗即是行。行能進趣¶
 從因至果。若不識體則不成行。此說猶通。¶
 若前三教。識真中理緣理修觀。亦得名為體¶
